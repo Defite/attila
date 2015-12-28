@@ -1,11 +1,10 @@
 /* ==========================================================================
    Includes
    ========================================================================== */
-
+@import "fonts";
 @import "normalize";
 @import "colors";
 @import "icons";
-@import "fonts";
 @import "highlight";
 
 /* ==========================================================================
@@ -34,7 +33,7 @@ html.menu-active,
 }
 
 body {
-	font: 400 2em / 1.5em 'Cardo', serif;
+	font: 400 2em / 1.5em 'Helvetica Neue', 'Arial', serif;
 	color: $color-blue-30;
 	text-rendering: optimizeLegibility;
 	-webkit-font-smoothing: antialiased;
@@ -428,7 +427,7 @@ img {
 	line-height: 1.5em;
 }
 .home-template .blog-description {
-	font-size: 1.5em;
+	font-size: 1.1em;
 }
 .has-cover .blog-description {
 	color: $color-white;
@@ -909,6 +908,8 @@ img {
 }
 .post-excerpt p {
 	margin: 0;
+	font-size: 0.85em;
+  	line-height: 1.5em;
 }
 .post-content a {
 	border-bottom: 1px solid $primary-color;
