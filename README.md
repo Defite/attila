@@ -1,6 +1,6 @@
 # Attila (forked)
 
-![Attila home screen](https://leto26d.storage.yandex.net/rdisk/90c39195ef183dd665fad5ceba5b7ff32abcd7cc0b62ffad2aac2113bb260409/inf/kEqfVYl_iIixPSSvzE1DGIa9lwtJge7faw6O98ZTfgcerGVmjfgoGyI_ancY-Hyv17Sf-ULZS831B7TWsi-xog==?uid=0&filename=2016-01-05%2023-05-41%20Никита%20Махов.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&rtoken=73efc403062a04d55359412790493d1c&force_default=no&ycrid=na-3a2ca718cef160fe564b74d0fe6dee5d-downloader5e)
+![Attila home screen](http://blog.defite.ru/content/images/2016/03/atilla_home.png)
 
 A content focused responsive theme for [Ghost](http://github.com/tryghost/ghost/).
 
