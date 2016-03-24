@@ -369,6 +369,7 @@ img {
 }
 .author-template #blog-header.has-cover {
 	padding: 6em 0;
+  height: auto;
 }
 .blog-cover {
 	position: absolute;
@@ -927,7 +928,7 @@ img {
     p {
     	margin: 0;
     	font-size: 0.85em;
-      	line-height: 1.5em;
+    	line-height: 1.7em;
     }
 
     a {
@@ -945,6 +946,10 @@ img {
     }
 }
 .post-content {
+    p {
+      font-size: 0.85em;
+      line-height: 1.7; 
+    }
     img,
     .fluid-width-video-wrapper {
     	max-width: none;
